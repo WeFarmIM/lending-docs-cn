@@ -6,5 +6,24 @@
 
 下面的文档描述了该协议的基础知识以及如何与之交互。请加入WeFarm社区Discord服务器的 #dev; 我们的团队和社区成员期待着您的加入。
 
+### 基本概述
 
+WeFarm协议代码库托管在Github上。
+
+The protocol is implemented as a set of **smart contracts** on top of the Ethereum blockchain. Smart contracts guarantee safety and do not require a middleman. 
+
+Users and applications can interact directly with the smart contracts, the blockchain data, or via their favorite web3 providers.
+
+WeFarm Protocol is developed with security as a priority, having been audited by multiple auditors.
+
+For a deeper dive into the protocol, economics, and how it works, refer to the White Paper.
+
+## Network
+
+The WeFarm Protocol is currently deployed on the following networks:
+
+* Ethereum
+* Polygon (Under construction)
+* BSC (Under construction)
+* OKChain (Under construction)
 
