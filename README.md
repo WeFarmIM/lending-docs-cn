@@ -1,4 +1,7 @@
-# Page 1
+---
+description: WeFarm 协议简介
+---
+# 简介
 
 ## WeFarm 简介
 
@@ -18,20 +21,12 @@ WeFarm协议是以安全为优先考虑的，经过了多个审计员的审计�
 
 要更深入地了解协议、经济以及它的工作原理，请参阅白皮书。
 
-The protocol is implemented as a set of **smart contracts** on top of the Ethereum blockchain. Smart contracts guarantee safety and do not require a middleman. 
+## 网络支持
 
-Users and applications can interact directly with the smart contracts, the blockchain data, or via their favorite web3 providers.
+WeFarm 协议目前部署在以下网络中:
 
-WeFarm Protocol is developed with security as a priority, having been audited by multiple auditors.
-
-For a deeper dive into the protocol, economics, and how it works, refer to the White Paper.
-
-## Network
-
-The WeFarm Protocol is currently deployed on the following networks:
-
-* Ethereum
-* Polygon (Under construction)
-* BSC (Under construction)
-* OKChain (Under construction)
+* 以太坊
+* Polygon (部署中)
+* BSC (部署中)
+* OKChain (部署中)
 
