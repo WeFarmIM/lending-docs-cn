@@ -10,6 +10,14 @@
 
 WeFarm协议代码库托管在Github上。
 
+该协议是在以太坊区块链上作为一组**智能合约**实现的。智能合约保证安全，不需要中间人。
+
+用户和应用程序可以直接与智能合约、区块链数据或通过他们喜欢的web3提供商进行交互。
+
+WeFarm协议是以安全为优先考虑的，经过了多个审计员的审计。
+
+要更深入地了解协议、经济以及它的工作原理，请参阅白皮书。
+
 The protocol is implemented as a set of **smart contracts** on top of the Ethereum blockchain. Smart contracts guarantee safety and do not require a middleman. 
 
 Users and applications can interact directly with the smart contracts, the blockchain data, or via their favorite web3 providers.
