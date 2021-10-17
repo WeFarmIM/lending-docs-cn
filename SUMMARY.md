@@ -11,3 +11,4 @@
   * [01 - Taka Security, Aug 2020](security/shen-ji/01-taka-security-aug-2020.md)
   * [02 - Trail of Bits, Sep 2020](security/shen-ji/02-trail-of-bits-sep-2020.md)
   * [03 - Consensys Diligence, Feb 2021](security/shen-ji/03-consensys-diligence-feb-2021.md)
+* [漏洞悬赏计划](security/lou-dong-xuan-shang-ji-hua.md)
