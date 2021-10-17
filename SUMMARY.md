@@ -4,6 +4,7 @@
 * [协议简介](xie-yi-jian-jie.md)
 * [利率模型](li-shuai-mo-xing.md)
 * [风控模型](feng-kong-mo-xing.md)
+* [WeFarm SDK](wefarm-sdk.md)
 
 ## 安全 <a href="security" id="security"></a>
 
