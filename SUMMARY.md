@@ -6,6 +6,7 @@
 * [风控模型](feng-kong-mo-xing.md)
 * [智能合约模块](zhi-neng-he-yue-mo-kuai/README.md)
   * [简介](zhi-neng-he-yue-mo-kuai/jian-jie.md)
+  * [Accounts 合约](zhi-neng-he-yue-mo-kuai/accounts-he-yue.md)
 * [WeFarm SDK](wefarm-sdk.md)
 
 ## 安全 <a href="security" id="security"></a>
